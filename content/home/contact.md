@@ -35,7 +35,8 @@ content:
     latitude: '37.4275'
     longitude: '-122.1697'
   office_hours:
-    - SSC 5225-D
+    - 'SSC 5225-D'
+    - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
