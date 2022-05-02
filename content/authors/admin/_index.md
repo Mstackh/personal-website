@@ -17,7 +17,7 @@ organizations:
 bio: Quantitative sociologist
 
 # Interests to show in About widget
-Research Area:
+interests:
 - Quantitative Methods
 - Data Reduction Techniques
 - Longitudinal Analyses
