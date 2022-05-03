@@ -29,7 +29,7 @@ marketing:
 # Site header
 
 header:
-  navbar:
+  navbar: true
     enable: true
     align: l
     show_logo: true
