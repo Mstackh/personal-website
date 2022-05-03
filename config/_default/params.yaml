@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: mr_robot
-  font: nanum myeongjo
+  theme_day: coffee
+  font: Cormorant
   font_size: L
 
 # SEO
