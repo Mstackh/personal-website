@@ -32,14 +32,15 @@ feature:
     icon: briefcase-medical
     icon_pack: fas
     name: Medical Sociology 
+  - description: Family and Intergenerational Relationships
+    icon: child
+    icon_pack: fas
+    name: Life Course Research
   - description: Sociological Explanatons
     icon: brain
     icon_pack: fas
     name: Mental Health & Wellbeing
-  - description: Family and Intergenerational Relationships
-    icon: hands-holding-child
-    icon_pack: fas
-    name: Life Course Research
+ 
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
