@@ -37,7 +37,7 @@ feature:
     icon_pack: fas
     name: Mental Health & Wellbeing
   - description: Family and Intergenerational Relationships
-    icon:family
+    icon: hands-holding-child
     icon_pack: fas
     name: Life Course Research
     
