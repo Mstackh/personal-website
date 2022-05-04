@@ -7,10 +7,10 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 20
 
-title: Areas and Skills
-subtitle:
+title: Research Areas 
+subtitle: Technical Skills and Substantive Interests
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
