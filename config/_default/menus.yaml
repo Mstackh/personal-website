@@ -7,14 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Working Projects
-    url: '#projects'
-    weight: 20
-  - name: CAnD3 work
-    url: '#posts'
-    weight: 30
   - name: Areas and Skills
     url: '#skills'
+    weight: 20
+  - name: Working Projects
+    url: '#projects'
+    weight: 30
+  - name: CAnD3
+    url: '#posts'
     weight: 40
   - name: Contact
     url: '#contact'

@@ -14,16 +14,16 @@ organizations:
   url: https://sociology.uwo.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Quantitative sociologist
+bio: Quantitative Sociologist
 
 # Interests to show in About widget
-interests:
-- Quantitative Methods
-- Data Reduction Techniques
-- Longitudinal Analyses
-- Health inequality Across the Life Course
-- Mental Health
-- Environmental Sociology
+#interests:
+#- Quantitative Methods
+#- Data Reduction Techniques
+#- Longitudinal Analyses
+#- Health inequality Across the Life Course
+#- Mental Health
+#- Environmental Sociology
 
 # Education to show in About widget
 education:
