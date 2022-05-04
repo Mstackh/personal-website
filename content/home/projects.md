@@ -31,8 +31,8 @@ content:
       tag: Parental Disability Pathways to Adult Mental Health
     - name: Perceptions of Environment Change
       tag: Perceptions of Environment Change
-    - name: Social Isolation and Integration During COVID-19
-      tag: Social Isolation and Integration During COVID-19
+    - name: Social Isolation and Integration During COVID-19: A Gender-Based Analyis
+      tag: Social Isolation and Integration During COVID-19: A Gender-Based Analyis
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -43,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
