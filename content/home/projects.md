@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Projects
+title: Working Projects
 subtitle: 'Outdoor Leisure Activity and Perceptions of Environmental Degradation in Atlantic Canada'
 
 content:
@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Parental Disability Research
+      tag: Parental Disability Research
+    - name: Perceptions of Environment
+      tag: Perceptions of Environment
     - name: Other
       tag: Demo
 
