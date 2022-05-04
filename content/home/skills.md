@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Proficiency in R 
   - description: SPSS, Stata, and SAS
-    icon: chart-mixed
+    icon: chart-bar
     icon_pack: fas
     name: Data Analysis
   - description: Health inequality & Health lifestyles
@@ -29,7 +29,7 @@ feature:
     icon_pack: fas
     name: Medical Sociology 
   - description: Sociological Expalanations
-    icon: head-side-medical
+    icon: brain
     icon_pack: fas
     name: Mental Health
 # Uncomment to use emoji icons.
