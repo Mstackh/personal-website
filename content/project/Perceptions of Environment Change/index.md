@@ -1,8 +1,8 @@
 ---
 title: Outdoor Leisure Activity and Perceptions of Environmental Degradation in Atlantic Canada
 summary: This project uses..
-tags: Perceptions of Environment Change
-  - Future Oceans and Coastals Infrastructure
+tags: 
+  - Perceptions of Environment Change
 date: '2022-05-04'
 
 # Optional external URL for project (replaces project detail page).
