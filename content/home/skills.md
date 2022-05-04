@@ -28,14 +28,14 @@ feature:
     icon: diagram-predecessor
     icon_pack: fas
     name: Data Reduction 
-  - description: Health inequality &lifestyles
+  - description: Health Inequality & Lifestyles
     icon: briefcase-medical
     icon_pack: fas
     name: Medical Sociology 
   - description: Family & Intergenerational Relationships
     icon: child
     icon_pack: fas
-    name: Life Course Research
+    name: The Life Course 
   - description: Sociological Explanations
     icon: brain
     icon_pack: fas
