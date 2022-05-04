@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Outdoor Leisure Activity and Perceptions of Environmental Degradation in Atlantic Canada
+summary: This project uses..
 tags:
-  - Deep Learning
+  - Future Oceans and Coastals Infrastructure
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -70,7 +70,7 @@ email: "mstackh@uwo.ca"
 highlight_name: true
 ---
 
-I am a PhD Candidate in Sociology at Western University. Before pursuing my PhD, I completed an MA in Sociology at Western and a BA (honours) from the University of New Brunswick.
+I am a PhD Candidate in the department of Sociology at Western University. Before pursuing my PhD, I completed an MA in Sociology at Western and a BA (honours) from the University of New Brunswick.
 
 My research includes quantitative methods, longitudinal data analysis, health inequality across the life course, and intergenerational relationships. In order to examine health inequality, I employ several quantitative techniques and make use of cross-sectional and longitudinal data in both Canada and the United States. In particular, I focus on health behaviour and lifestyle trajectories, disparities in mental health, and parental disability as a measure of inequality in childhood. I have experience using a range of modelling techniques such as principal component analysis, factor analysis, latent class analysis, and cluster analysis.
 
