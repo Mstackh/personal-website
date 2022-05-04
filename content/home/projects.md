@@ -25,14 +25,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: All Working Projects
       tag: '*'
     - name: Parental Disability Pathways to Adult Mental Health
       tag: Parental Disability Pathways to Adult Mental Health
-    - name: Perceptions of Environment
-      tag: Perceptions of Environment
-    - name: GBA on Social Isolation and Integration During COVID-19
-      tag: GBA on Social Isolation and Integration During COVID-19
+    - name: Perceptions of Environment Change
+      tag: Perceptions of Environment Change
+    - name: Social Isolation and Integration During COVID-19
+      tag: Social Isolation and Integration During COVID-19
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
