@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Proficient in Stata, SAS, and SPSS
+  - description: Proficient in Stata, SAS, & SPSS
     icon: chart-bar
     icon_pack: fas
     name: Quantitative Methods
@@ -28,11 +28,11 @@ feature:
     icon: diagram-predecessor
     icon_pack: fas
     name: Data Reduction 
-  - description: Health inequality & Health lifestyles
+  - description: Health inequality &lifestyles
     icon: briefcase-medical
     icon_pack: fas
     name: Medical Sociology 
-  - description: Family and Intergenerational Relationships
+  - description: Family & Intergenerational Relationships
     icon: child
     icon_pack: fas
     name: Life Course Research
