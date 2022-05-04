@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Projects
-subtitle: ''
+subtitle: 'Outdoor Leisure Activity and Perceptions of Environmental Degradation in Atlantic Canada'
 
 content:
   # Page type to display. E.g. project.
