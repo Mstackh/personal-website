@@ -37,7 +37,7 @@ feature:
     icon_pack: fas
     name: Mental Health & Wellbeing
   - description: Family and Intergenerational Relationships
-    icon: people-roof
+    icon:family
     icon_pack: fas
     name: Life Course Research
     
