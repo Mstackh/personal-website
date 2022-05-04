@@ -40,6 +40,7 @@ feature:
     icon: family
     icon_pack: fas
     name: Sociology of the Life Course
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
