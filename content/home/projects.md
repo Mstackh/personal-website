@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Working Projects
-subtitle: 'Outdoor Leisure Activity and Perceptions of Environmental Degradation in Atlantic Canada'
+subtitle: 'A list of my on-going research projects'
 
 content:
   # Page type to display. E.g. project.
@@ -25,8 +25,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All Working Projects
-      tag: '*'
+    # - name: All Working Projects
+     # tag: '*'
     - name: Parental Disability Pathways to Adult Mental Health
       tag: Parental Disability Pathways to Adult Mental Health
     - name: Perceptions of Environment Change
