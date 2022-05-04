@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: Coding and Data Visualizing
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Proficiency in R 
+  - description: SPSS, Stata, and SAS
+    icon: chart-mixed
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Data Analysis
+  - description: Health inequality & Health lifestyles
+    icon: briefcase-medical
     icon_pack: fas
-    name: Photography
+    name: Medical Sociology 
+  - description: Sociological Expalanations
+    icon: head-side-medical
+    icon_pack: fas
+    name: Mental Health
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
