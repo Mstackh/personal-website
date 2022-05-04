@@ -17,7 +17,7 @@ subtitle: Technical Skills and Substantive Interests
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Proficient in Stata, SAS, & SPSS
-    icon: chart-bar
+    icon: chart-line
     icon_pack: fas
     name: Quantitative Methods
   - description: Proficient in Rstudio
