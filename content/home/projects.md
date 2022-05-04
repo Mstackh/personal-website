@@ -31,8 +31,8 @@ content:
       tag: Parental Disability Pathways to Adult Mental Health
     - name: Perceptions of Environment
       tag: Perceptions of Environment
-    - name: COVID-19: GBA on Isolation and Social Integration 
-      tag: COVID-19: GBA on Isolation and Social Integration
+    - name: GBA on Social Isolation and Integration During COVID-19
+      tag: GBA on Social Isolation and Integration During COVID-19
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
