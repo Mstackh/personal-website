@@ -9,29 +9,37 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Skills
+title: Research Areas and Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Coding and Data Visualizing
-    icon: r-project
-    icon_pack: fab
-    name: Proficiency in R 
-  - description: SPSS, Stata, and SAS
+  - description: Proficient in SPSS, Stata, and SAS
     icon: chart-bar
     icon_pack: fas
-    name: Data Analysis
+    name: Quantitative Methods
+  - description: Proficient in Rstudio
+    icon: r-project
+    icon_pack: fab
+    name: Coding and Data Visualizing
+  -description: Index, Scaling, Latent Models, PCA
+    icon: diagram-predecessor
+    icon_pack: fas
+    name: Data Reduction Techniques
   - description: Health inequality & Health lifestyles
     icon: briefcase-medical
     icon_pack: fas
     name: Medical Sociology 
-  - description: Sociological Expalanations
+  - description: Sociological Explanatons
     icon: brain
     icon_pack: fas
-    name: Mental Health
+    name: Mental Health & Wellbeing
+  -description: Family, Linked Lives, Intergenerational Relationships
+    icon: family
+    icon_pack: fas
+    name: Sociology of the Life Course
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
