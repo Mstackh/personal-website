@@ -13,7 +13,7 @@ main:
   - name: CAnD3 work
     url: '#posts'
     weight: 30
-  - name: Research Areas and Skkills
+  - name: Areas and Skills
     url: '#skills'
     weight: 40
   - name: Contact
