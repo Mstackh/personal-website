@@ -16,30 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Proficient in SPSS, Stata, and SAS
+  - description: Proficient in Stata, SAS, and SPSS
     icon: chart-bar
     icon_pack: fas
     name: Quantitative Methods
   - description: Proficient in Rstudio
     icon: r-project
     icon_pack: fab
-    name: Coding and Data Visualizing
-  - description: Index, Scaling, Latent Models, PCA
+    name: Data Visualizing
+  - description: Index, Scales, Latent Models, PCA
     icon: diagram-predecessor
     icon_pack: fas
-    name: Data Reduction Techniques
+    name: Data Reduction 
   - description: Health inequality & Health lifestyles
     icon: briefcase-medical
     icon_pack: fas
     name: Medical Sociology 
   - description: Family and Intergenerational Relationships
-    icon: child
+    icon: family
     icon_pack: fas
     name: Life Course Research
-  - description: Sociological Explanatons
+  - description: Sociological Explanations
     icon: brain
     icon_pack: fas
-    name: Mental Health & Wellbeing
+    name: Mental Health & Well-being
  
     
 # Uncomment to use emoji icons.
