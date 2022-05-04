@@ -24,7 +24,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: Coding and Data Visualizing
-  -description: Index, Scaling, Latent Models, PCA
+  - description: Index, Scaling, Latent Models, PCA
     icon: diagram-predecessor
     icon_pack: fas
     name: Data Reduction Techniques
@@ -36,7 +36,7 @@ feature:
     icon: brain
     icon_pack: fas
     name: Mental Health & Wellbeing
-  -description: Family, Linked Lives, Intergenerational Relationships
+  - description: Family, Linked Lives, Intergenerational Relationships
     icon: family
     icon_pack: fas
     name: Sociology of the Life Course
