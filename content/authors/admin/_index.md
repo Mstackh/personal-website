@@ -76,4 +76,4 @@ My research includes quantitative methods, longitudinal data analysis, health in
 
 As a researcher, I am passionate about understanding the effects that family-related factors (e.g., parent-child relationship, family functioning, family structure) have on children’s health trajectories as they transition into adulthood and over their life course. I am drawn to further understanding how the family accentuates or ameliorates the association between social class in childhood and health in later life. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/STACKHOUSE,CV.pdf" "newtab" >}}CV{{< /staticref >}}.
