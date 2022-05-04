@@ -10,7 +10,7 @@ main:
   - name: Working Projects
     url: '#projects'
     weight: 20
-  - name: CAnD3
+  - name: CAnD3 work
     url: '#posts'
     weight: 30
   - name: Contact
