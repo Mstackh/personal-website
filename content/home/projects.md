@@ -27,12 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Parental Disability Research
-      tag: Parental Disability Research
+    - name: Parental Disability Pathways to Adult Mental Health
+      tag: Parental Disability Pathways to Adult Mental Health
     - name: Perceptions of Environment
       tag: Perceptions of Environment
-    - name: Other
-      tag: Demo
+    - name: COVID-19: GBA on Isolation and Social Integration 
+      tag: COVID-19: GBA on Isolation and Social Integration
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
