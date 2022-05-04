@@ -7,11 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
+  - name: Working Projects
     url: '#projects'
     weight: 20
-  - name: Publications
-    url: '#publications'
+  - name: CAnD3
+    url: '#posts'
     weight: 30
   - name: Contact
     url: '#contact'
