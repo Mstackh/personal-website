@@ -36,10 +36,10 @@ feature:
     icon: brain
     icon_pack: fas
     name: Mental Health & Wellbeing
-  - description: Family, Linked Lives, Intergenerational Relationships
-    icon: family
+  - description: Family and Intergenerational Relationships
+    icon: people-roof
     icon_pack: fas
-    name: Sociology of the Life Course
+    name: Life Course Research
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
