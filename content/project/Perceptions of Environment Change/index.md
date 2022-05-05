@@ -9,7 +9,7 @@ date: '2022-05-04'
 external_link: 'Perceptions of Environment Change'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Descriptives for Perceptions of Environmental Degradation in Atlantic Canada
   focal_point: Smart
 
 links:
