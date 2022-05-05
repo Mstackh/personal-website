@@ -76,7 +76,7 @@ My research broadly explores the social determinants of health inequalities. I t
 
 I am particularly interested in how meso-level factors contribute to population health divergences. As a researcher, a central theme in my work is concerned with understanding the effects that family-related factors (e.g., parent-child relationship, family functioning, family structure) have on children’s health trajectories as they transition into adulthood and over their life course. I am drawn to further understanding how aspects of the family accentuate or ameliorate the association between social class in childhood and health in later life. 
 
-My research pursuits expand beyond these horizons as I have research experience exploring urban-rural health disparities, social impacts of COVID-19, sexual orientation and health, parenting and children's academic achievement, parental disability pathways toward children's later life health, and environmental sociology more generally.
+My research pursuits extend beyond these horizons as I have research experience exploring Canadian urban-rural health disparities, the social implications of COVID-19, sexual orientation and health, parental disability pathways toward children's later life health, parenting and children's academic achievement, and environmental sociology more generally.
 
 I am a curious individual who is eager to learn and contribute to theoretical, measurement, and methodological advancements within the life course and medical sociology literature. Publications in which I have co-authored have appeared in _The Canadian Journal of Public Health_, _Canadian Public Policy_, and _SSM - Population Health_.
 
