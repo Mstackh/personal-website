@@ -33,14 +33,14 @@ content:
     region: Ontario
     postcode: 'N6A 3K7'
     country: Canada
-    country_code: CAD
+    country_code: US
   coordinates:
     latitude: '43.0096'
     longitude: '81.2737'
-  directions: Office: SSC 5225-D
+  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-   # - 'Monday 10:00 to 13:00'
-    #- 'Wednesday 09:00 to 10:00'
+    - 'Monday 10:00 to 13:00'
+    - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
