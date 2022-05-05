@@ -1,21 +1,21 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Completed work as a CAnD3 training fellow
+subtitle:
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Here I will show some of the work that I have completed with CAnD3 - for instance, dragons den, policy briefs, etc.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: 'May 5th, 2022'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: 'May 5th, 2022'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
@@ -30,15 +30,13 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
   - Academic
-  - 开源
+  - CAnD3
 
 categories:
-  - Demo
-  - 教程
+  - Posts
 ---
 
 ## Overview
