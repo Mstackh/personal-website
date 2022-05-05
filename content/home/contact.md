@@ -40,7 +40,7 @@ content:
   directions: Social Science Centre, Office 5225-D
   office_hours:
     - 'Monday through Friday - 9:00 to 5:00, EST'
-  appointment_url: 'https://calendly.com'
+#  appointment_url: 'https://calendly.com'
   #contact_links:
    # - icon: twitter
     #  icon_pack: fab
