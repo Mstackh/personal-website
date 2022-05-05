@@ -30,7 +30,7 @@ education:
   courses:
   - course: Doctor of Philosophy in Sociology
     institution: University of Western Ontario
-    year: 2023(expected)
+    year: 2023 (expected)
   - course: Master of Arts in Sociology
     institution: University of Western Ontario
     year: 2019
