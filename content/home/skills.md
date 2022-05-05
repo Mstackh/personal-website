@@ -16,11 +16,11 @@ subtitle: Technical Skills and Substantive Interests
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Proficient in Stata, SAS, & SPSS
+  - description: Using Stata, SAS, & SPSS
     icon: chart-line
     icon_pack: fas
     name: Quantitative Methods
-  - description: Proficient in Rstudio
+  - description: Using Rstudio
     icon: r-project
     icon_pack: fab
     name: Data Visualizing
