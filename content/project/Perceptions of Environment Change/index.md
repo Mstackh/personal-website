@@ -9,7 +9,7 @@ date: '2022-05-04'
 #external_link: 'Perceptions of Environment Change'
 
 image:
-  caption: Descriptives for Perceptions of Environmental Degradation in Atlantic Canada
+  caption: This is also a draft/test :)
   focal_point: Smart
 
 links:
