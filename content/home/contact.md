@@ -33,7 +33,7 @@ content:
     region: Ontario
     postcode: 'N6A 3K7'
     country: Canada
-    country_code: US
+    country_code: CA
   coordinates:
     latitude: '43.0096'
     longitude: '81.2737'
