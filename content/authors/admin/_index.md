@@ -70,10 +70,14 @@ email: "mstackh@uwo.ca"
 highlight_name: true
 ---
 
-I am a PhD Candidate in the department of Sociology at Western University. Before pursuing my PhD, I completed an MA in Sociology at Western and a BA (honours) from the University of New Brunswick.
+I am a PhD Candidate in the department of Sociology at Western University, a CAnD3 fellow, and currently a research associate intern with Environics Analytics. 
 
-My research includes quantitative methods, longitudinal data analysis, health inequality across the life course, and intergenerational relationships. In order to examine health inequality, I employ several quantitative techniques and make use of cross-sectional and longitudinal data in both Canada and the United States. In particular, I focus on health behaviour and lifestyle trajectories, disparities in mental health, and parental disability as a measure of inequality in childhood. I have experience using a range of modelling techniques such as principal component analysis, factor analysis, latent class analysis, and cluster analysis.
+My research broadly explores the social determinants of health inequalities. I theoretically draw from medical sociology, life course, demography, and cultural capital perspectives, and employ quantitative methods using longitudinal and cross-sectional data in both Canada and the United States. I often use a range of structural equation modeling techniques such as principal component analysis, factor analysis, and latent profile and class analysis to uncover structural relationships within data and observe heterogeneous groups in a population.
 
-As a researcher, I am passionate about understanding the effects that family-related factors (e.g., parent-child relationship, family functioning, family structure) have on children’s health trajectories as they transition into adulthood and over their life course. I am drawn to further understanding how the family accentuates or ameliorates the association between social class in childhood and health in later life. 
+I am particularly interested in how meso-level factors contribute to population health divergences. As a researcher, a central theme in my work is concerned with understanding the effects that family-related factors (e.g., parent-child relationship, family functioning, family structure) have on children’s health trajectories as they transition into adulthood and over their life course. I am drawn to further understanding how aspects of the family accentuate or ameliorate the association between social class in childhood and health in later life. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/STACKHOUSE,CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+My research pursuits expand beyond these horizons as I have research experience exploring urban-rural health disparities, social impacts of COVID-19, sexual orientation and health, parenting and children's academic achievement, parental disability pathways toward children's later life health, and environmental sociology more generally.
+
+I am a curious individual who is eager to learn and contribute to theoretical, measurement, and methodological advancements within the life course and medical sociology literature. Publications in which I have co-authored have appeared in _The Canadian Journal of Public Health_, _Canadian Public Policy_, and _SSM - Population Health_.
+
+{{< icon name="download" pack="fas" >}} You can access Matthew's CV {{< staticref "uploads/STACKHOUSE, CV.pdf" "newtab" >}}here{{< /staticref >}}.
