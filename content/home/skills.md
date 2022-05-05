@@ -36,10 +36,10 @@ feature:
     icon: child
     icon_pack: fas
     name: The Life Course 
-  - description: Sociological Explanations
+  - description: Social Processes
     icon: brain
     icon_pack: fas
-    name: Mental Health & Well-being
+    name: Sociology of Mental Health
  
     
 # Uncomment to use emoji icons.
