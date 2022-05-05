@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: mstackh@uwo.ca
+  phone: xxx-xxx-xxxx
   address:
     street: 1151
     city: London
@@ -37,19 +37,19 @@ content:
   coordinates:
     latitude: '43.0096'
     longitude: '81.2737'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Social Science Centre, Office 5225-D
   office_hours:
     - 'Monday through Friday - 9:00 to 5:00, EST'
   appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+  #contact_links:
+   # - icon: twitter
+    #  icon_pack: fab
+     # name: DM Me
+    #  link: 'https://twitter.com/Twitter'
+    #- icon: video
+     # icon_pack: fas
+      #name: Zoom Me
+      #link: 'https://zoom.com'
 
 design:
   columns: '2'
