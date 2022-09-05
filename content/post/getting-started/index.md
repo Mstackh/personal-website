@@ -1,18 +1,18 @@
 ---
-title: Completed work as a CAnD3 training fellow
+title: Teaching Philosophy and Pedagogy
 subtitle:
 
 # Summary for listings and search engines
-summary: Here I will show some of the work that I have completed with CAnD3 - for instance, dragons den, policy briefs, etc.
+summary: 
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: 'May 5th, 2022'
+date: 'August 20th, 2022'
 
 # Date updated
-lastmod: 'May 5th, 2022'
+lastmod: 'August 20th, 2022'
 
 # Is this an unpublished draft?
 draft: fLAW
