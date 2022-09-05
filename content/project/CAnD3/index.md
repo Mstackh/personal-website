@@ -1,5 +1,5 @@
 ---
-title: CAnD3 Fellowship
+title: CAnD3
 summary: 
 tags: 
   - CAnD3
