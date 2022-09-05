@@ -16,7 +16,7 @@ subtitle: Technical Skills and Substantive Interests
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Using Stata, SAS, & SPSS
+  - description: Using Stata, SAS, Python & SPSS
     icon: chart-line
     icon_pack: fas
     name: Quantitative Methods
