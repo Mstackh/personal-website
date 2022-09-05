@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Working Projects
-subtitle: 'A list of my on-going research projects'
+title: Projects
+subtitle: 'A list of my on-going and previous research projects and pursuits'
 
 content:
   # Page type to display. E.g. project.
@@ -33,6 +33,8 @@ content:
       tag: Parental Disability Pathways to Adult Mental Health
     - name: Parenting in Early Life and Children's Health Lifestyle Trajectories
       tag: Parenting in Early Life and Children's Health Lifestyle Trajectories
+    - name: Work from CAnD3 Fellowship
+    - tag: Work from CAnD3 Fellowship
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
