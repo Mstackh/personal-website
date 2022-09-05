@@ -36,7 +36,7 @@ feature:
     icon: child
     icon_pack: fas
     name: The Life Course 
-  - description: Social Processes
+  - description: Stress Processes
     icon: brain
     icon_pack: fas
     name: Sociology of Mental Health
