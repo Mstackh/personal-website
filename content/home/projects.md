@@ -17,7 +17,7 @@ content:
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+  filter_default: 1
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -35,6 +35,7 @@ content:
       tag: Parenting in Early Life and Children's Health Lifestyle Trajectories
     - name: CAnD3
     - tag: CAnD3
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
