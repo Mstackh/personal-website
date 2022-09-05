@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: CAnD3
+title: Teaching
 subtitle:
 
 content:

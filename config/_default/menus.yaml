@@ -13,10 +13,10 @@ main:
   - name: Working Projects
     url: '#projects'
     weight: 30
-  - name: CAnD3
+  - name: Teaching
     url: '#posts'
     weight: 40
-  - name: Teaching
+  - name: Publications
     url: '#publications'
     weight: 50
   - name: Contact
