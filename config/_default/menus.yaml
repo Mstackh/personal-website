@@ -16,7 +16,7 @@ main:
   - name: CAnD3
     url: '#posts'
     weight: 40
-  - name: Publications
+  - name: Teaching
     url: '#publications'
     weight: 50
   - name: Contact
