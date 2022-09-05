@@ -35,6 +35,8 @@ content:
       tag: Parenting in Early Life and Children's Health Lifestyle Trajectories
     - name: Work from CAnD3 Fellowship
     - tag: Work from CAnD3 Fellowship
+    - name: Other Projects
+    - tag: Other Projects
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
