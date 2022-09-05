@@ -6,7 +6,7 @@ tags:
 date: '2022-08-15'
 
 # Optional external URL for project (replaces project detail page).
-#external_link: 'Perceptions of Local Environment Change and Ecological Habitus'
+#external_link: 'CAnD3 Fellowship'
 
 image:
   caption: 
