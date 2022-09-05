@@ -28,7 +28,7 @@ content:
     # - name: All Working Projects
      # tag: '*'
     - name: Perceptions of Local Environment Change and Ecological Habitus
-      tag: Perceptions of Local Environment Change and Ecological Habtius
+      tag: Perceptions of Local Environment Change and Ecological Habitus
     - name: Parental Disability Pathways to Adult Mental Health
       tag: Parental Disability Pathways to Adult Mental Health
     - name: Parenting in Early Life and Children's Health Lifestyle Trajectories
