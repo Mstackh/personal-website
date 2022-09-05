@@ -70,7 +70,7 @@ email: "mstackh@uwo.ca"
 highlight_name: true
 ---
 
-I am a PhD Candidate in the department of Sociology at Western University and currently teaching Sociology 3308: Work and Health Across the Life Course. Previously, I was a fellow with the Consortium on Analytics for Data-Driven Decision Making and Research Associate Intern for Environics Analytics  I developed social and health-related well-being and vulnerability indicators.
+I am a PhD Candidate in the department of Sociology at Western University and currently teaching Sociology 3308: Work and Health Across the Life Course. Previously, I was a fellow with the Consortium on Analytics for Data-Driven Decision Making and Research Associate Intern for Environics Analytics where I developed social and health-related well-being and vulnerability indicators.
 
 My research broadly explores the social determinants of health inequalities. I theoretically draw from medical sociology, life course, demography, and cultural capital perspectives, and employ quantitative methods using longitudinal and cross-sectional data in both Canada and the United States. I often use a range of structural equation modeling techniques such as principal component analysis, factor analysis, and latent profile and class analysis to uncover structural relationships within data and observe heterogeneous groups within a population.
 
