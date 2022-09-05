@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Projects
-subtitle: 'A list of my on-going and previous research projects and pursuits'
+subtitle: 'Some of my on-going research projects'
 
 content:
   # Page type to display. E.g. project.
@@ -33,8 +33,8 @@ content:
       tag: Parental Disability Pathways to Adult Mental Health
     - name: Parenting in Early Life and Children's Health Lifestyle Trajectories
       tag: Parenting in Early Life and Children's Health Lifestyle Trajectories
-    - name: Work from CAnD3 Fellowship
-    - tag: Work from CAnD3 Fellowship
+    - name: CAnD3 Fellowship
+    - tag: CAnD3 Fellowship
     - name: Other Projects
     - tag: Other Projects
 
@@ -47,8 +47,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
