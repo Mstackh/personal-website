@@ -33,8 +33,8 @@ content:
       tag: Parental Disability Pathways to Adult Mental Health
     - name: Parenting in Early Life and Children's Health Lifestyle Trajectories
       tag: Parenting in Early Life and Children's Health Lifestyle Trajectories
-    - name: CAnD3 Fellowship
-    - tag: CAnD3 Fellowship
+    - name: CAnD3
+    - tag: CAnD3
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

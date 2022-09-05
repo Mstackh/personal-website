@@ -2,11 +2,11 @@
 title: CAnD3 Fellowship
 summary: 
 tags: 
-  - CAnD3 Fellowship
+  - CAnD3
 date: '2022-08-15'
 
 # Optional external URL for project (replaces project detail page).
-#external_link: 'CAnD3 Fellowship'
+#external_link: 'CAnD3'
 
 image:
   caption: 
