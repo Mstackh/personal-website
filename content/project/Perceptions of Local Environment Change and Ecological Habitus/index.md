@@ -9,7 +9,7 @@ date: '2022-08-15'
 #external_link: 'Perceptions of Environment Change'
 
 image:
-  caption: Descriptive statistics for perceptions of environment change
+  caption: 
   focal_point: Smart
 
 links:
