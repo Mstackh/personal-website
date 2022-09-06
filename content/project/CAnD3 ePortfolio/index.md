@@ -1,12 +1,12 @@
 ---
-title: CAnD3
+title: CAnD3 ePortfolio
 summary: 
 tags: 
-  - CAnD3
+  - CAnD3 ePortfolio
 date: '2022-08-15'
 
 # Optional external URL for project (replaces project detail page).
-#external_link: 'CAnD3'
+#external_link: 'CAnD3 ePortfolio'
 
 image:
   caption: 
