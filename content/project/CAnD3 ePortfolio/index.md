@@ -11,6 +11,12 @@ date: '2022-08-15'
 image:
   caption: 
   focal_point: Smart
+  
+  
+image:
+  caption: 
+  focal_point: Smart
+
 
 links:
   #- icon: twitter
